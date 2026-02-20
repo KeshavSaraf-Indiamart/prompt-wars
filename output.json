@@ -1,0 +1,85 @@
+[
+  {
+    "product": "Smart TV",
+    "brand": ["Samsung", "LG"],
+    "size": "43 inch",
+    "resolution": "4K",
+    "technology": "LED",
+    "features": "Smart TV",
+    "price_upper_limit": 20000,
+    "intent": "buy"
+  },
+  {
+    "product": "Chandan Agarbatti",
+    "brand": null,
+    "price_per_unit": 50,
+    "packaging": "20 stick box",
+    "quantity": 1000,
+    "unit": "boxes",
+    "intent": "wholesale"
+  },
+  {
+    "product": "Smart TV",
+    "size": "43 inch",
+    "resolution": "4K",
+    "technology": "LED",
+    "features": "Smart TV",
+    "price_upper_limit": 20000,
+    "intent": "buy"
+  },
+  {
+    "product": "Thermal Imaging Camera",
+    "brand": "FLIR",
+    "model": "E8-XT",
+    "resolution": "320x240 IR",
+    "features": ["MSX enhancement"],
+    "temperature_range": "-20 to 550 degree Celsius",
+    "intent": "buy"
+  },
+  {
+    "product": "Sona Masoori Steam Rice",
+    "age": "6 months old",
+    "price_lower_limit": 1000,
+    "price_upper_limit": 1100,
+    "quantity": 50,
+    "unit": "kg",
+    "packaging": "bag",
+    "intent": "wholesale"
+  },
+  {
+    "product": "Kantharai Brick",
+    "intent": "buy",
+    "language_note": "Gujarati query: kantharai brick availability requested"
+  },
+  {
+    "product": "Silver Laminate Paper Roll",
+    "gsm": 100,
+    "finish": "silver laminate",
+    "form": "roll",
+    "price_per_unit": 48,
+    "unit": "kg",
+    "location": ["Moradabad", "Noida"],
+    "intent": "buy"
+  },
+  {
+    "product": "Corrugated Cardboard Box",
+    "type": "double wall",
+    "dimensions": "30x20x15 cm",
+    "ply": "3 ply",
+    "use_case": "fragile items",
+    "quantity": 500,
+    "unit": "pcs",
+    "intent": "buy"
+  },
+  {
+    "product": "Half Anna Coin",
+    "intent": "sell"
+  },
+  {
+    "product": "Solar Panel",
+    "wattage": 500,
+    "unit": "Watt",
+    "use_case": "home",
+    "intent": "buy"
+  }
+]
